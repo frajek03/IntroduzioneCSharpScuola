@@ -1,0 +1,14 @@
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\bin\Debug\net9.0\MyFirstProject.exe
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\bin\Debug\net9.0\MyFirstProject.deps.json
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\bin\Debug\net9.0\MyFirstProject.runtimeconfig.json
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\bin\Debug\net9.0\MyFirstProject.dll
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\bin\Debug\net9.0\MyFirstProject.pdb
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.dll
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\refint\MyFirstProject.dll
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.pdb
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\francesca\Desktop\Csharpscuola\MyFirstProject\obj\Debug\net9.0\ref\MyFirstProject.dll
