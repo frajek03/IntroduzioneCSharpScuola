@@ -1,18 +1,20 @@
-﻿class Program
+﻿using System.Data.Common;
+
+class Program
 {
     
-    static int age = 20;
+    //static int age = 20;
 
-    static int Age = 30;
+    //static int Age = 30;
     public static void Main(string[] args)
     {
         //LessonOne();
-        VariablesOperationExamples();
+        //VariablesOperationExamples();
         //Console.WriteLine("Hello, World!");
-
+        //ifExample();
         //Console.WriteLine("age: " + age);
         //Console.WriteLine("Age: " + Age);
-
+        EserciziIf();
     }
     public static void LessonOne()
     {
@@ -52,5 +54,63 @@
         //Console.WriteLine($"resto di a e b = {resto}");
     }
 
+    //public static void ifExample()
+    /*{
+        Console.Write($"Inserisci primo numero: ");
+        int a = int.Parse(Console.ReadLine());
+        Console.Write($"Inserisci secondo numero: ");
+        int b = int.Parse(Console.ReadLine());
+
+        if(a < b && a < 15)
+        {
+            Console.Write($"{a} è minore di {b}");
+            
+        }
+        
+        if(a > b || a > 40)
+        {
+            Console.Write($"{a} è maggiore di {b}");
+            
+        }
+
+        if(!(a == b))
+        {
+            Console.Write($" no. tiè. ");
+            
+        }
+    }*/
+
+    public static void EserciziIf()
+    {
+       // Console.Write($"Per favore inserisci la tuà Età: ");
+        //int Age = int.Parse(Console.ReadLine());
+        
+        //if(Age >= 18 && Age <= 29)
+       // {
+       //     Console.Write($"l'utente è maggiorenne ");
+        //}
+
+        //else if(Age < 18)
+       // {
+        //    Console.Write($"l'utente è minorenne ");
+        //}
+
+        //if(Age >= 30 )
+        //{
+       //     Console.Write($"l'utente è molto vecchio. Vuoi del Voltaren? ");
+        //}
     
+    Console.Write($"Mi scusi questo quanto viene?");
+    float Prezzo = float.Parse(Console.ReadLine());
+    int Sconto = 10;
+    
+    if(Prezzo >= 100)
+        {
+            
+            Console.WriteLine($"Oh è sopra i 100$! allora ha diritto allo sconto, questo è il resto {Prezzo - (Prezzo * Sconto / 100)}");
+            
+        } 
+    
+
+    }
 }

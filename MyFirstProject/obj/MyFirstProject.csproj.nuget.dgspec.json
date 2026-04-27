@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\francesca\\Desktop\\Csharpscuola\\MyFirstProject\\MyFirstProject.csproj": {}
+    "C:\\Users\\francesca\\Desktop\\IntroduzioneCSharpScuola\\MyFirstProject\\MyFirstProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\francesca\\Desktop\\Csharpscuola\\MyFirstProject\\MyFirstProject.csproj": {
+    "C:\\Users\\francesca\\Desktop\\IntroduzioneCSharpScuola\\MyFirstProject\\MyFirstProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\francesca\\Desktop\\Csharpscuola\\MyFirstProject\\MyFirstProject.csproj",
+        "projectUniqueName": "C:\\Users\\francesca\\Desktop\\IntroduzioneCSharpScuola\\MyFirstProject\\MyFirstProject.csproj",
         "projectName": "MyFirstProject",
-        "projectPath": "C:\\Users\\francesca\\Desktop\\Csharpscuola\\MyFirstProject\\MyFirstProject.csproj",
+        "projectPath": "C:\\Users\\francesca\\Desktop\\IntroduzioneCSharpScuola\\MyFirstProject\\MyFirstProject.csproj",
         "packagesPath": "C:\\Users\\francesca\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\francesca\\Desktop\\Csharpscuola\\MyFirstProject\\obj\\",
+        "outputPath": "C:\\Users\\francesca\\Desktop\\IntroduzioneCSharpScuola\\MyFirstProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
